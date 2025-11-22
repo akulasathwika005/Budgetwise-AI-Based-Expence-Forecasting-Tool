@@ -1,0 +1,26 @@
+pip install flask flask-cors flask-jwt-extended werkzeug
+
+Flask==2.3.3
+Flask-CORS==4.0.0
+flask-jwt-extended==4.7.1
+pandas==2.2.2
+numpy==1.26.4
+prophet==1.2.0
+scikit-learn==1.5.1
+nltk==3.8.1
+plotly==5.15.0
+streamlit==1.28.0
+requests==2.31.0
+holidays==0.83
+Werkzeug==2.3.7
+python-dateutil==2.9.0
+click==8.1.7
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+scipy==1.13.1
+joblib==1.4.2
+threadpoolctl==3.5.0
+tenacity==8.2.3
+tqdm==4.66.4
+blinker==1.6.3
